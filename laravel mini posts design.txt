@@ -1,0 +1,13 @@
+1.post table
+title 
+body
+category_id
+user_id
+
+2.category table
+name
+
+3.comment table
+content
+user_id
+post_id
